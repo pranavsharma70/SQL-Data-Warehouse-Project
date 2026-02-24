@@ -42,4 +42,4 @@ You are free to use, and share this project with proper attribution.
 
 ## ✨ About Me
 
-Hi there! i'm **Pranav**. I'm a student trying to become a Data Scientist and than ML Engineer
+Hi there! i'm **Pranav**. I'm a student trying to become a Data Scientist and then ML Engineer
